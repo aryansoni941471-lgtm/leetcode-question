@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
