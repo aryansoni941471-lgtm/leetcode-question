@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -95,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0191-number-of-1-bits) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
