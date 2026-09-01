@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -79,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
