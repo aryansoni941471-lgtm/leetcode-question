@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
+| [2413-smallest-even-multiple](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
