@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 ## String
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
