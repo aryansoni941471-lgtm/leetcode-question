@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0704-binary-search) |
@@ -128,10 +130,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1492-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
