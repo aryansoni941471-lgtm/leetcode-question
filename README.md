@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
