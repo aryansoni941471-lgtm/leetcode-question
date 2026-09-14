@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/2413-smallest-even-multiple) |
 ## String
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0338-counting-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
