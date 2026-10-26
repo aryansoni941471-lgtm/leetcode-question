@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
 | ------- |
