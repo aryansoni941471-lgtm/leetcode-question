@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1748-sum-of-unique-elements) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0414-third-maximum-number) |
 ## Trie
 |  |
