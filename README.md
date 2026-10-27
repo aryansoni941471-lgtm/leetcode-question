@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0242-valid-anagram) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/1748-sum-of-unique-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aryansoni941471-lgtm/leetcode-question/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
