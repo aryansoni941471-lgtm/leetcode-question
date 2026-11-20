@@ -1,3 +1,4 @@
+
 class Solution {
     public int removeDuplicates(int[] nums) {
 
@@ -5,7 +6,7 @@ class Solution {
 
         for (int j = 1; j < nums.length; j++) {
 
-            if (nums[j] != nums[i]) {
+            if (nums[i] != nums[j]) {
                 i++;
                 nums[i] = nums[j];
             }
